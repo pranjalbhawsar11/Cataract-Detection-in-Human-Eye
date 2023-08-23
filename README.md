@@ -11,4 +11,9 @@ Sobel operator
 VGG19
 
 # Dataset
+### retina_dataset/dataset/1_normal/
+<img src = https://github.com/sjchoi86/retina_dataset/blob/master/dataset/1_normal/NL_001.png width="300" height="200" />
+
+!
+
 
